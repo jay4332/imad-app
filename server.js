@@ -55,7 +55,7 @@ function createTemplate (data){
         </body>
     </html>
     `;
-    retun htmlTemplate;
+    return htmlTemplate;
 }
 
 
